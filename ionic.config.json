@@ -1,0 +1,7 @@
+{
+  "name": "TVMolise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
