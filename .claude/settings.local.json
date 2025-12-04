@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx cap sync:*)",
+      "Bash(npm run build:*)",
+      "Bash(./gradlew.bat clean:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
